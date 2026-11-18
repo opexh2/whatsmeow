@@ -1,7 +1,7 @@
 # whatsmeow
 [![Go Reference](https://pkg.go.dev/badge/go.mau.fi/whatsmeow.svg)](https://pkg.go.dev/go.mau.fi/whatsmeow)
 
-whatsmeow is a Go library for the WhatsApp web multidevice API.
+whatsmeow is a Go library for the WhatsApp web multidevice API!
 
 ## Discussion
 Matrix room: [#whatsmeow:maunium.net](https://matrix.to/#/#whatsmeow:maunium.net)
